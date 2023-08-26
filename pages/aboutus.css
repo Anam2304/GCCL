@@ -1,0 +1,11 @@
+.body {
+  margin: auto;
+  width: 1180px;
+  padding: 60px;
+  font-family: "Barlow", sans-serif;
+  line-height: 1.7;
+}
+
+p {
+  color: black;
+}
